@@ -64,6 +64,8 @@ palettee <- c('#d7191c','#fdae61','#ffffbf','#abd9e9','#2c7bb6')
 
 census_api_key('bf2d507651b5a621dbadd44533fb4f3deaab26bf', overwrite = TRUE)
 
+print("check")
+
 ```
 
 ## Loading Data
